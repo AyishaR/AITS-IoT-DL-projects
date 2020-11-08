@@ -1,8 +1,10 @@
-# AITS-work
+# AITS Projects
 
 This is a compilation of my work done at [AITS](https://www.linkedin.com/company/aitechsystems/).
 
-The notebooks were developed on the [cAInvas platform](http://cainvas.ai-tech.systems/) and used the [deepC](https://github.com/ai-techsystems/deepC) compiler!
+The following are notebooks enlisting deep learning applications in IoT.
+
+They were developed on the [cAInvas platform](http://cainvas.ai-tech.systems/) and used the [deepC](https://github.com/ai-techsystems/deepC) compiler to optimize them for EDGE devices.
 
 Use the links below to run the notebooks on the cAInvas platform and use the deepC compiler.
 
