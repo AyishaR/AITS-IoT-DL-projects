@@ -79,3 +79,14 @@ Classify different type of garbage based on material (like glass, paper, metal e
 [On cAInvas](https://cainvas.ai-tech.systems/use-cases/gender-recognition-by-voice-app/)
 
 Predicting the gender of the speaker from acoustic features extracted from a voice recording.
+
+### Fruit quality assessment
+[IPYNB file](https://github.com/AyishaR/AITS-work/blob/main/fruit_quality.ipynb) | 
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fruit-quality-detection-app/)
+
+Categorise pomegranates based on their grade/quality into 12 classes.
+
+### Fetal health classification
+[IPYNB file](https://github.com/AyishaR/AITS-work/blob/main/fetal-health.ipynb)
+
+Classifying fetal health into 3 categories using features extracted from cardiotocogram exams in order to prevent child and maternal mortality.
