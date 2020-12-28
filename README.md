@@ -13,7 +13,9 @@ The datasets required are hosted and available through links in the ipynb files.
 *List of notebooks:*
 
 ### Captcha Recognition
-[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/captcha.ipynb)
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/captcha.ipynb) | 
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/captcha-recognition-app/) | 
+[Medium article](https://medium.com/ai-techsystems/captcha-recognition-on-cainvas-597454050f80)
 
 Transcribing captcha images to text.
 
@@ -68,43 +70,84 @@ Using CNN architecture to predict arrythmia on ECG data.
 
 ### Parkinsons Disease Detection
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/parkinsons.ipynb) | 
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/parkinsons-disease-detection-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/parkinsons-disease-detection-app/) | 
+[Medium article](https://medium.com/ai-techsystems/parkinsons-disease-detection-on-cainvas-5f3d803eabe)
 
 Detecting parkinson's disease in patients using speech signals.
 
 ### Garbage classification
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/garbage_classification.ipynb) | 
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/garbage-classification-app/) 
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/garbage-classification-app/) | 
+[Medium article](https://medium.com/ai-techsystems/garbage-classification-on-cainvas-23dbeb0a7ec2) 
 
 Classify different type of garbage based on material (like glass, paper, metal etc.).
 
 ### Gender recognition by voice
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/gender_recgnz_voice.ipynb) | 
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/gender-recognition-by-voice-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/gender-recognition-by-voice-app/) | 
+[Medium article](https://medium.com/ai-techsystems/gender-recognition-using-voice-data-on-cainvas-6ab32dc7e4c6)
 
 Predicting the gender of the speaker from acoustic features extracted from a voice recording.
 
 ### Fruit quality assessment
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/fruit_quality.ipynb) | 
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fruit-quality-detection-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fruit-quality-detection-app/) | 
+[Medium article](https://medium.com/ai-techsystems/assessing-the-grade-and-quality-of-fruit-on-cainvas-3bc0a09fcc3)
 
 Categorise pomegranates based on their grade/quality into 12 classes.
 
 ### Fetal health classification
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/fetal-health.ipynb) |
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fetal-health-detection-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fetal-health-detection-app/) | 
+[Medium article](https://medium.com/ai-techsystems/fetal-health-classification-on-cainvas-1129886daa19)
 
 Classifying fetal health into 3 categories using features extracted from cardiotocogram exams in order to prevent child and maternal mortality.
 
 ### Epileptic Seizure Recognition
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/epileptic_seizure.ipynb) |
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/epileptic-seizure-recognition-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/epileptic-seizure-recognition-app/) | 
+[Medium article](https://medium.com/ai-techsystems/epileptic-seizure-recognition-on-cainvas-386a0f332d3b)
 
 Detect and monitor seizures in patients using EEG brain signals.
 
 ### Sonar data - Rocks or Mines?
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/sonar.ipynb) |
-[On cAInvas](https://cainvas.ai-tech.systems/use-cases/sonar-data-recognition-app/)
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/sonar-data-recognition-app/) | 
+[Medium article](https://medium.com/ai-techsystems/sonar-data-mines-vs-rocks-on-cainvas-c0a08dde895b)
 
 Use sonar data to identify if the transmitted waves bounced off rocks or mines.
 
+### Identifying hummingbird species
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/hummingbird.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/hummingbirds-identification-app/) | 
+[Medium article](https://medium.com/ai-techsystems/identify-hummingbird-species-on-cainvas-4e640cc09ffe)
+
+Use deep learning to identify different species of hummingbirds.
+
+### Article category classification
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/article_classification.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/article-category-classification-app/) | 
+[Medium article](https://medium.com/ai-techsystems/article-category-classification-on-cainvas-e78fcd42891e)
+
+What is this article talking about? Find out with deep learning! 
+
+### Is that asteroid out there hazardous?
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/asteroid.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/asteroid-classification-app/) | 
+[Medium article](https://cainvas.ai-tech.systems/use-cases/asteroid-classification-app/)
+
+Finding potential hazardous and non-hazardous near-earth asteroids. 
+
+### Identifying insect bites
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/insect_bite.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/insect-bite-identification-app/) | 
+[Medium article](.com/ai-techsystems/identifying-insect-bites-on-cainvas-96874143a48b)
+
+Differentiating between a mosquito bite and a tick bite using deep learning. 
+
+### Drug classification
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/drug_classification.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/drug-classification-app/) | 
+[Medium article](https://medium.com/ai-techsystems/drug-classification-on-cainvas-18e6471df32a)
+
+Training a deep learning model to prescribe a drug based on the patient’s data. 
