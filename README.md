@@ -151,3 +151,31 @@ Differentiating between a mosquito bite and a tick bite using deep learning.
 [Medium article](https://medium.com/ai-techsystems/drug-classification-on-cainvas-18e6471df32a)
 
 Training a deep learning model to prescribe a drug based on the patient’s data. 
+
+### Visual Wake-word detection
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/visual_wake_word.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/visual-wake-word-detection-app/) | 
+[Medium article](https://medium.com/ai-techsystems/visual-wake-word-detection-on-cainvas-6ec3424b497e)
+
+Training a deep learning model to respond to the presence of certain objects (here, humans) in the frame. 
+
+### Fire detection in surveillance cameras
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/fire_detection.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/fire-detection-app-using-surveillance-camera/) | 
+[Medium article](https://medium.com/ai-techsystems/detecting-fires-in-road-surveillance-on-cainvas-336900dd4904)
+
+Detecting fires in images/frames for early detection and prevention.
+
+### Weather detection in images
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/weather.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/weather-classification-app/) | 
+[Medium article](https://medium.com/ai-techsystems/detect-the-weather-in-images-image-tagging-on-cainvas-5f6bbb5f9eed)
+
+Image tagging based on the weather of the scene.
+
+### Language identification in text
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/language_identification.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/language-identification-app-from-text/) | 
+[Medium article]()
+
+Determining the language of the written text using a deep learning model.
