@@ -176,6 +176,27 @@ Image tagging based on the weather of the scene.
 ### Language identification in text
 [IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/language_identification.ipynb) |
 [On cAInvas](https://cainvas.ai-tech.systems/use-cases/language-identification-app-from-text/) | 
-[Medium article]()
+[Medium article](https://medium.com/ai-techsystems/language-identification-of-text-on-cainvas-5778d6a9aae9)
 
 Determining the language of the written text using a deep learning model.
+
+### Glass quality prediction
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/glass.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/glass-quality-assessment-app/) | 
+[Medium article]()
+
+Determining the quality of glass using features like thickness, composition, luminosity, and many others.
+
+### Financial distress prediction
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/financial_distress.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/financial-distress-prediction-app/) | 
+[Medium article](https://medium.com/ai-techsystems/financial-distress-prediction-on-cainvas-2d05dc57f1a5)
+
+Predicting whether a given company is under financial distress or not based on time-based data for different companies.
+
+### Spam text classificaton
+[IPYNB file](https://github.com/AyishaR/AITS-IoT-DL-projects/blob/main/spam_text.ipynb) |
+[On cAInvas](https://cainvas.ai-tech.systems/use-cases/spam-text-classification-app/) | 
+[Medium article]()
+
+Identifying whether the given text is spam or not (ham) using neural networks.
